@@ -1,4 +1,15 @@
 ## WELCOME TO WhiteDevil12i's GITHUB ACCOUNT !
 
 ## About me
-My name is Aditya Shetty aka 
+Hey there! I'm Aditya Shetty (aka WhiteDevil12i), a passionate cybersecurity enthusiast dedicated to navigating the ever-evolving landscape of digital security. With a knack for turning complex vulnerabilities into robust defenses, I'm on a mission to contribute to a safer and more secure cyberspace. I've a keen interest in Offensive, API and Mobile security.
+
+## Skills snapshots
+- **Languages**- Python, C, HTML, shell, MongoDB
+-  **Toola**- Nmap, kali linux, wireshark, metasploit, Nikto, Autopsy , Burp Suite, hydra, nessus
+-  **Platforms**-  VScode,Jupyter Notebook, Docker
+
+## Connect With me 
+- **Linkedin**- 
+
+Explore my repositories to dive into projects reflecting my journey in the realm of cybersecurity. Feel free to connect, collaborate, or drop me a message—I'm always up for a cyber conversation! 
+
