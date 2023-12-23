@@ -10,7 +10,8 @@ Hey there! I'm Aditya Shetty (aka WhiteDevil12i), a passionate cybersecurity ent
 
 ## Connect With me 
 - **Linkedin**-  [linkedin.com/in/adityashetty46](https://www.linkedin.com/in/adityashetty46)
-- 
+-  **Github**- [github.com/Whitedevil12i](https://github.com/WhiteDevil12i)
+-  **Email**- adityashetty253@gmail.com
 
 Explore my repositories to dive into projects reflecting my journey in the realm of cybersecurity. Feel free to connect, collaborate, or drop me a message—I'm always up for a cyber conversation! 
 
