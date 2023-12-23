@@ -5,11 +5,11 @@ Hey there! I'm Aditya Shetty (aka WhiteDevil12i), a passionate cybersecurity ent
 
 ## Skills snapshots
 - **Languages**- Python, C, HTML, shell, MongoDB
--  **Toola**- Nmap, kali linux, wireshark, metasploit, Nikto, Autopsy , Burp Suite, hydra, nessus
+-  **Tools**- Nmap, kali linux, wireshark, metasploit, Nikto, Autopsy , Burp Suite, hydra, nessus
 -  **Platforms**-  VScode,Jupyter Notebook, Docker
 
 ## Connect With me 
-- **Linkedin**- 
+- **Linkedin**-  [linkedin.com/in/adityashetty46](https://www.linkedin.com/in/adityashetty46)
 
 Explore my repositories to dive into projects reflecting my journey in the realm of cybersecurity. Feel free to connect, collaborate, or drop me a message—I'm always up for a cyber conversation! 
 
