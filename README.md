@@ -1,7 +1,7 @@
 ## WELCOME TO WhiteDevil12i's GITHUB ACCOUNT !
 
 ## About me
-Hey there! I'm Aditya Shetty (aka WhiteDevil12i), a passionate cybersecurity enthusiast dedicated to navigating the ever-evolving landscape of digital security. With a knack for turning complex vulnerabilities into robust defenses, I'm on a mission to contribute to a safer and more secure cyberspace. I've a keen interest in Offensive, API and Mobile security.
+Hey there! I'm Aditya Shetty (aka WhiteDevil12i), a passionate cybersecurity enthusiast dedicated to navigating the ever-evolving landscape of digital security. With a knack for turning complex vulnerabilities into robust defenses, I'm on a mission to contribute to a safer and more secure cyberspace. I've a keen interest in Offensive and Mobile security.
 
 ## Skills snapshots
 - **Languages**- Python, C, HTML, shell, MongoDB
