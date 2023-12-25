@@ -9,7 +9,7 @@ Hey there! I'm Aditya Shetty (aka WhiteDevil12i), a passionate cybersecurity ent
 -  **Platforms**-  VScode,Jupyter Notebook, Docker
 
 ## Connect With me 
-- **Linkedin**-  [linkedin.com/in/adityashetty46](https://www.linkedin.com/in/adityashetty46)
+- **Linkedin**-  [linkedin.com/in/shettyadi12i](https://www.linkedin.com/in/shettyadi12i)
 -  **Github**- [github.com/Whitedevil12i](https://github.com/WhiteDevil12i)
 -  **Tryhackme**- [tryhackme.com/p/Adi.Bloggs](https://tryhackme.com/p/Adi.Bloggs)
 -  **Email**- adityashetty253@gmail.com
