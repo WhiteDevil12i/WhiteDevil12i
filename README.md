@@ -9,7 +9,7 @@ Hey there! I'm Aditya Shetty (aka WhiteDevil12i), a passionate cybersecurity ent
 -  **Platforms**-  VScode,Jupyter Notebook, Docker
 -  
 ## Badges
-  ![](https://tryhackme.com/badge/561275)</br>
+  ![](https://tryhackme.com/badge/561275)
 
 ## Connect With me 
 - **Linkedin**-  [linkedin.com/in/shettyadi12i](https://www.linkedin.com/in/shettyadi12i)
