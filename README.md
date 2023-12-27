@@ -7,6 +7,9 @@ Hey there! I'm Aditya Shetty (aka WhiteDevil12i), a passionate cybersecurity ent
 - **Languages**- Python, C, HTML, shell, MongoDB
 -  **Tools**- Nmap, kali linux, wireshark, metasploit, Nikto, Autopsy , Burp Suite, hydra, nessus
 -  **Platforms**-  VScode,Jupyter Notebook, Docker
+-  
+## Badges
+  <script src="https://tryhackme.com/badge/561275"></script>
 
 ## Connect With me 
 - **Linkedin**-  [linkedin.com/in/shettyadi12i](https://www.linkedin.com/in/shettyadi12i)
